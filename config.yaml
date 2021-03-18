@@ -1,8 +1,8 @@
 settings:
   title: 'Superhub Status'
   url: 'https://status-page.eidam.dev' # used for Slack messages
-  logo: logo-192x192.png # image in ./public/ folder
-  daysInHistogram: 90 # number of days you want to display in histogram
+  logo: frame_4.png # image in ./public/ folder
+  daysInHistogram: 30 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
   allmonitorsOperational: 'All Systems Operational'
