@@ -52,4 +52,4 @@ monitors:
     description: 'MSK-M1 node'
     url: 'https://siren.mcs.s-hub.xyz:8086'
     method: GET
-    expectStatus: 200
+    expectStatus: 401
